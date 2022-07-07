@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TBC_Task_8</string>
+    <string name="get_started">Get Started</string>
+    <string name="main_page_text">Listen to the best \n music everyday \n with <font color="#06c149">Hearme</font> now!</string>
+    <string name="lets_in">Let\'s you in</string>
+    <string name="login_apple">Continue with Apple</string>
+    <string name="login_google">Continue with Google</string>
+    <string name="login_facebook">Continue with Facebook</string>
+    <string name="signin_password">Sign in with password</string>
+    <string name="dont_have_account">Don\'t have an account? <font color = "#06c149">Sign up</font></string>
+    <string name="or">or</string>
+</resources>
